@@ -1,0 +1,2 @@
+C:\Users\matte\Desktop\Es02DB\Es02DB\bin\Debug\Es02DB.exe.config
+E:\Es02\Es02DB\Es02DB\bin\Debug\Es02DB.exe.config
